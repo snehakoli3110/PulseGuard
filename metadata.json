@@ -1,0 +1,6 @@
+{
+  "name": "Network Device Monitor",
+  "description": "Real-time network device ping monitor, latency trend tracker, and downtime alerting system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
